@@ -10,6 +10,8 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            Class1 c = new Class1();
+            Class4 c1 = new Class4();
         }
     }
 }
